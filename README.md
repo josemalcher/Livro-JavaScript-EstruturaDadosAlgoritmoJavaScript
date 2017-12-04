@@ -6,7 +6,7 @@ Meu resumo e Código fonte do livro **Javascript estrutura de dados e algoritmos
 
 ### Lista de capitulos:
   
-1. JavaScript - uma rápida visão geral  
+[1. JavaScript - uma rápida visão geral](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript/tree/master/01-JavaScript-UmaRapidaVisaoGeral)  
 2. Arrays  
 3. Pilhas  
 4. Filas  
