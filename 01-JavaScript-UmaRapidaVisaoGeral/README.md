@@ -498,9 +498,26 @@ blizzardFan();
 
 ### 12 - Template literals
 
-```html
+```json
+ //(...)
+ "main": "12-Es6StringTemplates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel 12-Es6StringTemplates.js --out-file js/main.js -w"
+  },
+//(...)
+```
 
+```html
+<script type="text/javascript" src="js/main.js"></script>
 ```
 ```javascript
+// Template literals
+var book = {
+    name: 'Learning JavaScript DataStructures and Algorithms'
+};
 
+console.log(`You are reading... ${book.name}.,
+    ...
+    and this is a new line`);
 ```
