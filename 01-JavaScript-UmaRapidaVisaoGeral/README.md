@@ -413,6 +413,34 @@ livroTeste.printIsbn();
 
 ### 11 - ES6 let e const
 
+```json
+{
+  "name": "cap01estruturadadosjavascript",
+  "version": "1.0.0",
+  "description": "Estudos do livro de JavaScript Estutura de Dados e Algoritmo - Loiane G.",
+  "main": "11-ES6letconst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel 11-ES6letconst.js --out-file js/main.js -w"
+  },
+  "keywords": [
+    "javascript",
+    "Estrutura",
+    "de",
+    "Dados",
+    "Capitulo",
+    "1"
+  ],
+  "author": "José Malcher Jr.",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
+
+```
+
 ```html
 <script type="text/javascript" src="js/main.js"></script>
 ```
@@ -468,3 +496,11 @@ blizzardFan();
 
 ---
 
+### 12 - Template literals
+
+```html
+
+```
+```javascript
+
+```
