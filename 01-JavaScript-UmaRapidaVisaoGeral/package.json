@@ -2,10 +2,10 @@
   "name": "cap01estruturadadosjavascript",
   "version": "1.0.0",
   "description": "Estudos do livro de JavaScript Estutura de Dados e Algoritmo - Loiane G.",
-  "main": "13-ES6ArrowFunctions.js",
+  "main": "14-ES6ParameterHandling.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "babel": "babel 13-ES6ArrowFunctions.js --out-file js/main.js -w"
+    "babel": "babel 14-ES6ParameterHandling.js --out-file js/main.js -w"
   },
   "keywords": [
     "javascript",
