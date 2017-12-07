@@ -2,10 +2,10 @@
   "name": "cap01estruturadadosjavascript",
   "version": "1.0.0",
   "description": "Estudos do livro de JavaScript Estutura de Dados e Algoritmo - Loiane G.",
-  "main": "15-ES6EnhancedObjectProperties.js",
+  "main": "16-ES6Classes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "babel": "babel 15-ES6EnhancedObjectProperties.js --out-file js/main.js -w"
+    "babel": "babel 16-ES6Classes.js --out-file js/main.js -w"
   },
   "keywords": [
     "javascript",
