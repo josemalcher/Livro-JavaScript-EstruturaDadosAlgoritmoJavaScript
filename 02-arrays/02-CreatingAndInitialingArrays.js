@@ -1,36 +1,3 @@
-# Javascript estrutura de dados e algoritmos
-
-Códigos do capítulo
-  
-## 2. Arrays
-
----
-
-### 01 - introdução
-```javascript
-var averageTempJan = 31.9;
-var averageTempFeb = 35.3;
-var averageTempMar = 42.4;
-var averageTempApr = 52;
-var averageTempMay = 60.8;
-
-var averageTemp = [];
-averageTemp[0] = 31.9;
-averageTemp[1] = 35.3;
-averageTemp[2] = 42.4;
-averageTemp[3] = 52;
-averageTemp[4] = 60.8;
-```
-
----
-
-### 02 - Creating And Initialing Arrays
-
-```html
-<script type="text/javascript" src="02-CreatingAndInitialingArrays.js"></script>
-```
-
-```javascript
 var diasDaSEmana = [];
 var diasDaSEmana = ['Segunda', 'Terça', 'Quarta'];
 
@@ -61,9 +28,3 @@ for (var i = 1 ; i < fibonacci.length ; i++){
     console.log(fibonacci[i]);
 }
 console.log(fibonacci);
-
-```
-
----
-
-### 
