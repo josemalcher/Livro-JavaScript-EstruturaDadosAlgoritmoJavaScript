@@ -1,24 +1,23 @@
 # Javascript estrutura de dados e algoritmos
 
-Meu resumo e Código fonte do livro **Javascript estrutura de dados e algoritmos**.
+Meu resumo e Código fonte do livro **_Javascript Estrutura de Dados e Algoritmos Ed. 1_**.
 
-![2nd edition](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5493OS_5348_Learning%20JavaScript%20Data%20Structures%20and%20Algorithms,%20Second%20Edition.jpg)
 
 ### Lista de capitulos:
   
-[1. JavaScript - uma rápida visão geral](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript/tree/master/01-JavaScript-UmaRapidaVisaoGeral)    
-[2. Arrays](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript/tree/master/02-arrays)       
-3. Pilhas  
-4. Filas  
-5. Listas ligadas    
-6. Conjuntos  
-7. Dicionários e hashes  
-8. Árvores  
-9. Grafos  
-10. Algorítmos de ordenação e busca  
-11. Padrões de algorítmos  
-12. Complexidade de algorítmos  
+[1. JavaScript - uma rápida visão geral](01-JavaScript-UmaRapidaVisaoGeral)    
+[2. Arrays](02-Arrays/README.md)       
+[3. Pilhas](03-Pilhas/README.md)  
+[4. Filas](04-Filas/README.md)  
+[5. Listas ligadas](05-Listas-ligadas/README.md)    
+[6. Conjuntos](06-Conjuntos/README.md)  
+[7. Dicionários e hashes](07-Dicionarios-e-hashes/README.md)  
+[8. Árvores](08-Arvores/README.md)  
+[9. Grafos](09-Grafos/README.md)    
+[10. Algorítmos de ordenação e busca](10-Algoritmos-de-ordenacao-e-busca/README.md)  
+[11. Padrões de algorítmos](11-Padroes-de-algoritmos/README.md)  
+[12. Complexidade de algorítmos](12-Complexidade-de-algoritmos/README.md)  
 
 ### Repositório original:
 
-[Repositorio](https://github.com/loiane/javascript-datastructures-algorithms/) original do livro
+[Repositorio Oficcial - Loiane G.](https://github.com/loiane/javascript-datastructures-algorithms/) original do livro
